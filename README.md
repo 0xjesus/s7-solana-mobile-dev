@@ -1,16 +1,13 @@
-# s7_solana_mobile_dev
+### Exercise Overview
 
-A new Flutter project.
+This exercise was particularly challenging due to the mobile schemas and the requirements of Phantom. I had to implement my solution raw, strictly following the scope of the adapter without using any libraries. I am considering starting a library for Flutter. Below, you can find the proof of work demonstrating the exercise in action! 😊
 
-## Getting Started
+**Link:**
 
-This project is a starting point for a Flutter application.
+[Video](https://www.veed.io/view/a93042d9-061a-4cab-8a3b-0440f888c40b?panel=share)
 
-A few resources to get you started if this is your first Flutter project:
+Thank you!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Let me know if you need further adjustments or additional details!
